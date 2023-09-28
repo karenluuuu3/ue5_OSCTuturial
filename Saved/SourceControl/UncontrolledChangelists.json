@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Maps/map1.umap",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_bindOSCmessage.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_sendOSCmessage.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_GameMode.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_PawnEmpty.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_plastic.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_emissive.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_emissive_Inst.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_Inst_background.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_Inst_white.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_Inst_gray.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Arm1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Arm2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Arm2End.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Arm2Light.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Arm2Start.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/YFJSR-UE5_OSC_Interactive_Art_Files/SM_Cap_Cap.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_osc.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_spinner.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_NSTrail.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/NS/NS_Trail.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Maps/map1_BuiltData.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/NS/NS_Trail2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Maps/map2.umap",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/bp_spinner2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Materials/mt_plastic_Inst.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/osc/bp_sendOSCmessage.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ue5_OSCTuturial/Content/Blueprints/osc/bp_bindOSCmessage.uasset"
+			]
+		}
+	]
+}
